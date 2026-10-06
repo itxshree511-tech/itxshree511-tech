@@ -1,4 +1,4 @@
-![Header](./img/github-header-banner.png)
+git remote add origin https://github.com/itxshree511-tech/itxshree511-tech.git![Header](./img/Circuit%20dino%20developer%20banner.png)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,vscode,py,java,html,css,js,figma,bootstrap,tailwind,react,supabase,vercel,nodejs,vite,vue&theme=dark&perline=8)](https://skillicons.dev)
